@@ -24,11 +24,11 @@ AI 에이전트와 스크립트로 반복 업무와 인프라 운영을 자동�
 모델 호출 없이 커밋·푸시·**원격 SHA 검증**까지 하는 업로드 큐. 모호한 실패는 재시도하지 않고 차단 상태로 남깁니다.
 `Python` `Git` `gitleaks` `GitHub Actions`
 
-### 🤖 AI agent operations (case study — coming soon)
+### 🤖 [AI agent operations with approval guardrails](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/agent-ops-guardrails.ko.md) · [EN](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/agent-ops-guardrails.en.md)
 LLM 에이전트(Hermes)에 웹사이트·봇·배포 도구를 연결하되, 모든 쓰기 작업에 건별 승인·해시 확인·자동 백업을 적용한
 운영 환경. 기존 에이전트에서 단계적 무중단 이관.
 
-### 📈 Gear trend report pipeline (case study — coming soon)
+### 📈 [Gear trend report pipeline](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/gear-trend-pipeline.ko.md) · [EN](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/gear-trend-pipeline.en.md)
 Google Trends · 네이버 · YouTube 데이터를 수집·점수화해 대시보드와 Discord 일일 리포트로 제공.
 규칙 기반 추출이 수렴하지 않자 **카탈로그 우선 + 실데이터 골드셋 검증**으로 재설계한 과정 포함.
 
