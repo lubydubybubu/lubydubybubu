@@ -24,6 +24,11 @@ AI 에이전트와 스크립트로 반복 업무와 인프라 운영을 자동�
 모델 호출 없이 커밋·푸시·**원격 SHA 검증**까지 하는 업로드 큐. 모호한 실패는 재시도하지 않고 차단 상태로 남깁니다.
 `Python` `Git` `gitleaks` `GitHub Actions`
 
+### ⚙️ [n8n-automation-workflows](https://github.com/lubydubybubu/n8n-automation-workflows)
+Docker로 운영하는 n8n(LAN 전용)의 실사용 워크플로 3개: 사이트 가동·지연 감시(상태 변화 시에만 알림),
+GitHub CI 일일 요약, 게이밍 기어 RSS 주간 요약. 워크플로 JSON 검증·시크릿 스캔 CI 포함.
+`n8n` `Docker Compose` `GitHub Actions`
+
 ### 🤖 [AI agent operations with approval guardrails](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/agent-ops-guardrails.ko.md) · [EN](https://github.com/lubydubybubu/portfolio-case-studies/blob/main/agent-ops-guardrails.en.md)
 LLM 에이전트(Hermes)에 웹사이트·봇·배포 도구를 연결하되, 모든 쓰기 작업에 건별 승인·해시 확인·자동 백업을 적용한
 운영 환경. 기존 에이전트에서 단계적 무중단 이관.
