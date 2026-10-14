@@ -37,8 +37,6 @@ LLM 에이전트(Hermes)에 웹사이트·봇·배포 도구를 연결하되, �
 Google Trends · 네이버 · YouTube 데이터를 수집·점수화해 대시보드와 Discord 일일 리포트로 제공.
 규칙 기반 추출이 수렴하지 않자 **카탈로그 우선 + 실데이터 골드셋 검증**으로 재설계한 과정 포함.
 
----
-
 ### 🖱️ [itlubs-xlat-benchmark](https://github.com/lubydubybubu/itlubs-xlat-benchmark)
 itlubs.com 기어 리뷰에 쓰는 클릭 응답속도 측정 도구. 브라우저(Web Serial) ↔ XLAT 측정기, Windows 브리지(.NET) ↔ TAB Rabbit,
 웹 트리거용 XLAT 펌웨어 패치(GPL-3.0). CI에서 펌웨어·브리지 빌드 검증.
