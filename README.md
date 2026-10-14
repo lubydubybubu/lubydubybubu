@@ -39,6 +39,13 @@ Google Trends · 네이버 · YouTube 데이터를 수집·점수화해 대시�
 
 ---
 
+### 🖱️ [itlubs-xlat-benchmark](https://github.com/lubydubybubu/itlubs-xlat-benchmark)
+itlubs.com 기어 리뷰에 쓰는 클릭 응답속도 측정 도구. 브라우저(Web Serial) ↔ XLAT 측정기, Windows 브리지(.NET) ↔ TAB Rabbit,
+웹 트리거용 XLAT 펌웨어 패치(GPL-3.0). CI에서 펌웨어·브리지 빌드 검증.
+`JavaScript` `C#/.NET` `C (STM32, FreeRTOS)` `GitHub Actions`
+
+---
+
 ## Other work
 
 - **Korean localization for ArtCraft apps** — [artcraft-ko-toolkit](https://github.com/lubydubybubu/artcraft-ko-toolkit)
